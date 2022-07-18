@@ -137,6 +137,9 @@ hr{
 
   }
   .mountainimg{
-    width: 100%;
+    width: 100% !important;
   }
+  .cloudimg{
+   position: static;
+}
 }
